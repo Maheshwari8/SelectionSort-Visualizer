@@ -3,7 +3,7 @@
 This Selection Sort Visualizer is a web-based application built using HTML, CSS, and JavaScript. It provides an interactive and educational visualization of the Selection Sort algorithm, allowing users to see how the algorithm works step-by-step on a dynamic array of numbers.
 
 
-🌟_Features _
+_🌟Features_
 
 **Visual Representation**: Displays the sorting process in real-time, highlighting comparisons, swaps, and the current state of the array.
 
@@ -25,7 +25,7 @@ This Selection Sort Visualizer is a web-based application built using HTML, CSS,
 **JavaScript**: Core functionality for implementing the selection sort algorithm and controlling the visualization.
 
 
-🎓_ Learning Benefits_
+_🎓Learning Benefits_
 
 Understand how the Selection Sort algorithm works in practice.
 
